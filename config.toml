@@ -64,6 +64,11 @@ googleAnalytics = "UA-XXXXX-Y"
 	# You may change these with your social links or add others
 
 	[[params.social]]
+		title = "LinkedIn"
+		icon = "fa-linkedin"
+		link = "https://se.linkedin.com/in/johannesg"
+
+	[[params.social]]
 		title = "Twitter"
 		icon = "fa-twitter"
 		link = "https://twitter.com/johannesgu"
