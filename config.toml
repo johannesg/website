@@ -69,14 +69,14 @@ googleAnalytics = "UA-XXXXX-Y"
 		link = "https://se.linkedin.com/in/johannesg"
 
 	[[params.social]]
+		title = "GitHub"
+		icon = "fa-github"
+		link = "https://github.com/johannesg"
+
+	[[params.social]]
 		title = "Twitter"
 		icon = "fa-twitter"
 		link = "https://twitter.com/johannesgu"
-
-	[[params.social]]
-		title = "Instagram"
-		icon = "fa-github"
-		link = "https://github.com/johannesg"
 		
 	[[params.social]]
 		title = "Facebook"
